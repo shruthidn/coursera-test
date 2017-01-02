@@ -8,7 +8,7 @@ h2{
 .row{
   width: 100%;
 }
-div p{
+p{
   margin-top: 0px;
   margin-bottom: 0px;
   width: 100px;
@@ -24,11 +24,10 @@ div p{
 }
 
 section{
-  width: 250px;
-  height: 150px;
-  clear: both;
+  height: 110px;
+  clear: right;
   padding: 7px; 
-  margin-bottom: 5px
+  margin-bottom: 5px; 
 }
 
 div div{ 
@@ -36,12 +35,7 @@ div div{
    background-color: mintcream;
    margin: 10px;
 } 
-
-div < div{ 
-   border: 1px solid black;
-    background-color: red;
-} 
-
+ 
 
 
 /********** desktop version only **********/
